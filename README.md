@@ -12,11 +12,11 @@ and checking the system's response.
 - ``npm i``
 - ``git init``
 - Open Apache JMeter and load the provided JMX file located in the clone directory.
--  Now add the API endpoints for each test, authentication details, or any other necessary configurations.
+-  Now add the API endpoints for each test, authentication details and any other necessary configurations.
 -  Now start test
 
 ## Test Reports
-### scenario:
+### Scenario:
 The test scenario covers the following positive test cases but create negative testing not mendatory
 - Create an agent and a customer.
 - Deposit 2000 tk to agent from system account.
